@@ -9,4 +9,5 @@ Minigames are available for entertainment.
 
 Javascript will be used to create the minigames such as guess that number. 
 It is found within the code the HTMl file labelled "randomahhminigames.html".
-It can be found by scrolling down until the end of the body. It s between the syntax code "<script>" and "</script>"
+In order to find it, scroll down until the end of the body (the end of the body is the syntax </body>). 
+It's between the syntaxes "<script>" and "</script>"
