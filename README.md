@@ -20,9 +20,9 @@ IV. Description of main website :
 
 V. Outline of Content (Webpages) <br>
    A. Home Page <br>
-           1. It's code is within the html titled "Q2 PROJECT PROPOSAL  BY  BONDOC AND CAYABAYB.html" <br>
-           2. It's an introduction to the website <br>
-           3. Has a navigation bar <br>
+           > 1. It's code is within the html titled "Q2 PROJECT PROPOSAL  BY  BONDOC AND CAYABAYB.html" <br>
+           > 2. It's an introduction to the website <br>
+           > 3. Has a navigation bar <br>
    B. Animated Series <br>
        1. It's code is within the html titled "animatedseries.html" <br>
        2. Contains information and our own thoughts, feelings, and vews on our favorite animated series <br>
