@@ -1,6 +1,6 @@
 # WDProjSodiumBondocCayabyab
 
-Javascript will be used to create the minigames such as guess that number. 
+Javascript will be used to create the minigames such as guess that number to entertain the user if they become bored. 
 It is found within the code the HTMl file labelled "randomahhminigames.html".
 In order to find it, scroll down until the end of the body (the end of the body is the syntax </body>). 
 It's between the syntaxes "<script>" and "</script>"
