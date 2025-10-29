@@ -18,24 +18,27 @@ We would also like to establish an online space that people can simply browse fo
     in common or we may recommend you something cool!
 
 ## **V. Outline of Content (Webpages)** <br>
- A. Home Page <br>
+###**A. Home Page** <br>
      1. It's an introduction to the website <br>
      2. Has a navigation bar <br>
- B. About <br>
+###**B. About** <br>
      1. Code titled "AboutPage.html" <br>
      2. Contains information about the creators of the website <br>
- C. Contacts <br>
+###**C. Contacts** <br>
      1. Code titled "ContactsPage.html" <br>
      2. Contains email address of the creators to send a message or give feedback <br>
- D. Minigame <br>
+###**D. Minigame** <br>
      1. Code titled "Minigame.html" <br>
      2. Contains a short number guessing game for fun <br>
- E. Animated Series <br>
+ ###**E. Animated Series** <br>
        1. Code titled "animatedseries.html" <br>
        2. Contains information and our own thoughts, feelings, and vews on our favorite animated series <br>
- F. Books <br>
-       1. Code  titled "books.html" <br>
-       2. Contains information and our own thoughts, feelings, and vews on our favorite books <br>
+ ###**F. Books** <br>
+       1. Code titled "books.html" <br>
+       2. Contains information and our own thoughts, feelings, and views on our favorite books <br>
+ ###**G. Music** <br>
+       1. Code titled "music.html" <br>
+       2. Contains media of our favorite songs <br>
 
 ## **VI. Incorporation of JavaScript** <br>
       
