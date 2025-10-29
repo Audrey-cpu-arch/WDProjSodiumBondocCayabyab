@@ -5,10 +5,12 @@ TITLE : Duorites
 
 ## **II. Website Purpose** <br>
 This website is to show our (the creators') interest to people on the internet and maybe introduce them to these new media that they might enjoy.
-We would also like to establish an online space that people can simply browse for fun.
+We would also like to establish an online space that people can simply browse for fun. <br>
 
 ## **III. Website Logo** <br>
   logo : 
+
+<br>
 
 ## **IV. Description of main website** <br>
 
@@ -16,6 +18,8 @@ We would also like to establish an online space that people can simply browse fo
     can share our interests or favorite media, ranging from books, to tv shows, to music. Here, we give comments
     on why we love these specific things and their highlights. Maybe here you can find put that we may have something
     in common or we may recommend you something cool!
+
+<br>
 
 ## **V. Outline of Content (Webpages)** <br>
 ### **A. Home Page** 
@@ -51,12 +55,12 @@ We would also like to establish an online space that people can simply browse fo
  ### **G. Music**
  <br>
        1. Code titled "music.html" <br>
-       2. Contains media of our favorite songs <br>
+       2. Contains media of our favorite songs <br> <br>
 
 ## **VI. Incorporation of JavaScript** <br>
       
 
- The Javascript will be incorporated into the website using the number guessing game. It will randomize a number, check the number, then tell if the user's number is higher, lower, or the same as the number. <br>
+ The Javascript will be incorporated into the website using the number guessing game. It will randomize a number, check the number, then tell if the user's number is higher, lower, or the same as the number. <br> <br>
      
 ## **VII. Wireframes** <br>
 [https://www.canva.com/design/DAG3FlHBV04/yuMDd36AOXS4HQlYBYiI8g/edit?utm_content=DAG3FlHBV04&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
