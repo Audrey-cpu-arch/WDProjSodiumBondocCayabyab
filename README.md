@@ -19,7 +19,7 @@ IV. Description of main website :
     in common or we may recommend you something cool!
 
 V. Outline of Content (Webpages)
-   A. Home Page
+   A. Home Page <br>
        1. It's code is within the html titled "Q2 PROJECT PROPOSAL  BY  BONDOC AND CAYABAYB.html"
        2. It's an introduction to the website
        3. Has a navigation bar 
