@@ -15,7 +15,8 @@ We would also like to establish an online space that people can simply browse fo
 ## **III. Website Logo** <br>
   logo : 
 
-## **IV. Description of main website** :
+## **IV. Description of main website** <br>
+
     Hello, welcome to Bell and Audrey's Duorite website! This is a fun online space where we, the creators,
     can share our interests or favorite media, ranging from books, to tv shows, to music. Here, we give comments
     on why we love these specific things and their highlights. Maybe here you can find put that we may have something
@@ -43,8 +44,8 @@ We would also like to establish an online space that people can simply browse fo
 
 ## **VI. Incorporation of JavaScript** <br>
       
-      Javascript will be incorporated into the website using the number guessing game. It will randomize a number, check the number, then tell if the user's number is higher, lower, or the same as the correct number. <br>
-## **VII. Wireframes** <br>
-[inset wireframe links here]
- 
+
+ The Javascript will be incorporated into the website using the number guessing game. It will randomize a number, check the number, then tell if the user's number is higher, lower, or the same as the number. <br>
      
+## **VII. Wireframes** <br>
+[https://www.canva.com/design/DAG3FlHBV04/yuMDd36AOXS4HQlYBYiI8g/edit?utm_content=DAG3FlHBV04&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
