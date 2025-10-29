@@ -18,4 +18,18 @@ IV. Description of main website :
     on why we love these specific things and their highlights. Maybe here you can find put that we may have something
     in common or we may recommend you something cool!
 
-V. 
+V. Outline of Content (Webpages)
+   A. Home Page
+       1. It's code is within the html titled "Q2 PROJECT PROPOSAL  BY  BONDOC AND CAYABAYB.html"
+       2. It's an introduction to the website
+       3. Has a navigation bar 
+   B. Animated Series
+       1. It's code is within the html titled "animatedseries.html"
+       2. Contains information and our own thoughts, feelings, and vews on our favorite animated series
+       3. Has a table of contents at the side
+       4. Main content is at the middle
+   C. Books
+       1. It's code is within the html titled "books.html"
+       2. Contains information and our own thoughts, feelings, and vews on our favorite books
+       3. Has a table of contents at the side
+       4. Main content is at the middle
