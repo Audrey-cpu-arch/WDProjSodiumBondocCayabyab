@@ -32,12 +32,13 @@ We would also like to establish an online space that people can simply browse fo
 <br>
      1. Code titled "ContactsPage.html" <br>
      2. Contains email address of the creators to send a message or give feedback <br>
+
 ### **D. Minigame**
 <br>
      1. Code titled "Minigame.html" <br>
      2. Contains a short number guessing game for fun <br>
- ### **E. Animated Series**
 
+ ### **E. Animated Series**
  <br>
        1. Code titled "animatedseries.html" <br>
        2. Contains information and our own thoughts, feelings, and vews on our favorite animated series <br>
@@ -46,7 +47,7 @@ We would also like to establish an online space that people can simply browse fo
  <br>
        1. Code titled "books.html" <br>
        2. Contains information and our own thoughts, feelings, and views on our favorite books <br>
-       
+
  ### **G. Music**
  <br>
        1. Code titled "music.html" <br>
