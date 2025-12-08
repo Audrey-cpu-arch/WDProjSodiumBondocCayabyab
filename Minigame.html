@@ -39,7 +39,28 @@ nav ul li a{
 <h1 style="text-align:center"> HEADING</h1>
 <p style="text-align:center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pellentesque sed orci sed mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus non felis at enim molestie luctus sed et augue. Donec mollis posuere mi, a luctus massa accumsan a.</p>
 
+
+<div>
+    Enter a number between 0 to 100: <input type = "number" id ="userinput" >
+     <button type ="button" onclick = "checkNumber()"> Press here</button>
+     <p id="output"> Result:</p>
+</div>
 <script>
+    function checkNumber(){
+        let numberEntered = document.getElementById("userinput").value;
+        const dNumber = Math.floor(Math.random() * 100) + 1;
+        if(numberEntered<dNumber){
+        document.getElementById("output").innerText = "The actual number is higher than that.";
+    }
+
+        else if(numberEntered>dNumber){
+        document.getElementById("output").innerText = "The actual number is lower than that.";
+    }
+
+    else{
+        document.getElementById("output").innerText = "Congrats! You got the correct number!";
+    }
+}
 //javascript code is here
 </script>
 
