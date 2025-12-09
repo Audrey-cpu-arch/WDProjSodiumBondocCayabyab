@@ -18,7 +18,13 @@ nav ul li{
 nav ul li a{
 color:aliceblue;
 }
+#output{
+    text-align:center;
+}
 
+div{
+    text-align:center;
+}
 </style>
 
 <head> 
@@ -62,8 +68,12 @@ color:aliceblue;
         document.getElementById("output").innerText = "The actual number is lower than that.";
     }
 
-    else{
+    else if(numberEntered==dNumber){
         document.getElementById("output").innerText = "Congrats! You got the correct number!";
+    }
+
+    else{
+        document.getElementById("output").innerText = "Please enter a valid number.";
     }
 }
 //javascript code is here
